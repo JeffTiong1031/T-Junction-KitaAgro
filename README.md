@@ -149,7 +149,7 @@ flowchart TD
 	A[App Launch] --> B[Firebase init]
 	B --> C{Signed in?}
 	C -- No --> W[Welcome / Sign in]
-	C -- Yes --> D{Profile complete in Firestore users/{uid}?}
+	C -- Yes --> D{"Profile complete in Firestore users/{uid}?"}
 	D -- No --> P[CompleteProfileScreen]
 	D -- Yes --> M[MainLayout]
 ```
