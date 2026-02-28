@@ -431,7 +431,7 @@ Since this repository is public, sensitive configuration files and API keys have
 **To test the application with our live, pre-populated database:**
 Instead of compiling from source, please download and install the provided compiled Android APK. This APK is securely configured to connect to our live Firebase database so you can experience all features, including mock community posts, pre-populated lands, and AI chat features.
 
-[👉 **Download the KitaAgro APK Here**](https://drive.google.com/file/d/1zP-7qlMci5dxPDjeV4r7ZTVQ1hnUkiRV/view?usp=sharing)
+[👉 **Download the KitaAgro APK Here**](https://drive.google.com/file/d/1wPgRDe3Nlu54Amrvg6KtMaTk8li1ptJ8/view?usp=sharing)
 
 *(Note: If you wish to compile from source, you will need to set up your own Firebase project, run `flutterfire configure`, and provide your own Gemini API keys in a `.env` file).*
 
